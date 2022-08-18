@@ -68,14 +68,16 @@ LT= L1+L2+LX
 Lx = 50 mH − 10 mH − 22 mH = 18 mH
 
 En la figura 13-45, ¿cuál es la inductancia total entre los puntos A y B con cada posición del interruptor?
-image
+![image](https://user-images.githubusercontent.com/105940407/185451205-7ee42ffd-92e7-43d0-b63e-faa6014749d2.png)
+
 
 LT = 1/(1/L1+1/L2+1/L3+1/L4) LT = 155 uH 16. Usted tiene un inductor de 12 mH, y éste es su valor más bajo, pero necesita una inductancia de 8 mH. ¿Qué valor puede utilizar en paralelo con el inductor de 12 mH para obtener 8 mH?
 
-image
+![image](https://user-images.githubusercontent.com/105940407/185451239-4a68d94e-c6d6-434d-aac9-c72d99c2c2fe.png)
+
 
 Determine la inductancia total de cada circuito mostrado en la figura 13-47
-image
+![image](https://user-images.githubusercontent.com/105940407/185451268-24794cb7-4883-4035-8455-cb6d2c78347b.png)
 
 a) LT = (100 mH)(50mH)/150mH + (60 mH)(40 mH)/100mH LT =33.33 mH + 24 mH = 57.3 mH b) LT = (12 mH)(6mH)/18 mH = 4 mH c) LT = 4 mH +(2 mH)(4mH)/6mH = 5.33 Mh
 
@@ -84,27 +86,30 @@ SECCIÓN 13–4 Inductores en circuitos de cd
 En un circuito RL en serie, determine cuánto tiempo se lleva la corriente para incrementarse a su valor total con cada una de las siguientes combinaciones:
 a) R= 56Ω, L= 50 uH
 
-image
+![image](https://user-images.githubusercontent.com/105940407/185451285-99712e31-6ca8-4536-aca8-a73e2f911e35.png)
 
 b) R= 3300Ω, L = 15mH
 
-image
+![image](https://user-images.githubusercontent.com/105940407/185451321-7a27ce5d-7143-4198-82af-0597a70b4413.png)
+
 
 c) R= 22 k Ω, L= 100Mh
 
-image
+![image](https://user-images.githubusercontent.com/105940407/185451346-9bd59d5d-ef01-49f2-8f7e-bff89aaf64a0.png)
+
 
 Para el inductor ideal de la figura 13-49, calcule la corriente en cada uno de los siguientes instantes: a) 10 us
 b) 20 us
 
 c) 30us
 
-image
+![image](https://user-images.githubusercontent.com/105940407/185451367-4235d573-d8a9-476d-8b9c-bf07486efee0.png)
+![image](https://user-images.githubusercontent.com/105940407/185451379-b0aec9e9-4cd1-4985-a4e7-f8cd2319b5ff.png)
 
-image
 
 Repita el problema 22 para los siguientes instantes: a) 65us b) 75 us c) 85 us
-image
+![image](https://user-images.githubusercontent.com/105940407/185451415-a8f78195-2f0f-41af-a669-f33be084bc63.png)
+
 
 (a) ¿Cuál es la polaridad del voltaje inducido en el inductor de la figura 13-49 cuando la onda cuadra da está creciendo?
 La polaridad es negativa porque en una parte la onda cuadrada decrece el voltaje
@@ -116,12 +121,13 @@ La corriente es constante antes de que la onda se reduzca a cero
 *28. (a) ¿Cuál es la corriente en el inductor 1?0 ms después de que se cierra el interruptor en la figura 13-50?
 
 (b) ¿Cuál es la corriente después de que transcurren 5t?
+![image](https://user-images.githubusercontent.com/105940407/185451440-135277fe-ef55-45d1-8023-42bb64024793.png)
 
-image
 
 SECCIÓN 13–5 Inductores en circuitos de ca 30. Determine la resistencia total para cada circuito de la figura 13-46 cuando se aplica voltaje a una frecuencia de 5 kHz entre las terminales.
 
-image
+![image](https://user-images.githubusercontent.com/105940407/185451457-bd03f74f-bf5e-40de-a67b-5f32ec8b270d.png)
+
 
 En la figura 13-51, determine la corriente rms total. ¿Cuáles son las corrientes a través de L2 y L3?
 Xl= 2pifL = 2pi(60X10^-6)(2.5X10^3)
@@ -133,78 +139,103 @@ I= v/Xl = 10/0.9424
 I= 10.61 A
 
 En la figura 13-51, determine la potencia reactiva.
-image
+![image](https://user-images.githubusercontent.com/105940407/185451487-58506ab0-a783-46ec-9a33-9ae4ab17fbb0.png)
+
 
 Pr = I^2rms Xl Pr = 10.61 *0.9424 Pr = 10 VAR
 
 capitulo 14
 
-Determine el coeficiente de acoplamiento cuando LM = 1 µH, L1 = 8 µH, y L2 = 2 µH. image
+Determine el coeficiente de acoplamiento cuando LM = 1 µH, L1 = 8 µH, y L2 = 2 µH. 
+
+![image](https://user-images.githubusercontent.com/105940407/185451565-372bbbd8-9787-4780-83e5-52102e430602.png)
+
 
 Cierto transformador tiene 250 vueltas en su devanado primario. Para duplicar el voltaje, ¿cuántas vueltas debe haber en el devanado secundario?
+![image](https://user-images.githubusercontent.com/105940407/185451528-42f289f9-b266-48d6-879f-aa2b2035bf3b.png)
 
-image
 
 Para elevar 240 V de ca a 720 V, ¿cuál debe ser la relación de vueltas?
-image
+https://user-images.githubusercontent.com/105829461/185290481-9515f50e-8edf-48a1-9d9f-7ca24c319584.png
 
 ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 10 para obtener un voltaje secundario de 60 V de ca?
-image
+![image](https://user-images.githubusercontent.com/105940407/185451625-7c1518f7-ee1f-4cc7-9057-30ad6ad720d8.png)
+
 
 El devanado primario de un transformador tiene 1200 V a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 0.2?
-image
+![image](https://user-images.githubusercontent.com/105940407/185451646-e15d9d7f-c9f4-4a52-8bb8-3363d26102fb.png)
+
 
 ¿Cuál es el voltaje a través de la carga en cada uno de los circuitos de la figura 14-43?
-image
-
-image
+![image](https://user-images.githubusercontent.com/105940407/185451665-7a237309-cfc0-465b-b816-e45e5f0fdec3.png)
+![image](https://user-images.githubusercontent.com/105940407/185451684-abdef508-04be-45f0-9615-6ce38c38d71a.png)
 
 Determine Is en la figura 14-45. ¿Cuál es el valor de RL?
-image
+![image](https://user-images.githubusercontent.com/105940407/185451729-95c0cec0-ffb0-4cec-ad61-6855d1375098.png)
+![image](https://user-images.githubusercontent.com/105940407/185451749-e8689b6c-1523-4f82-ba02-260603d3df5a.png)
 
-image
 
 ¿Cuál es la resistencia en la carga vista por la fuente en la figura 14-47?
-image
+![image](https://user-images.githubusercontent.com/105940407/185451780-ae693339-b57a-4c16-9590-f654caf92603.png)
 
-image
+![image](https://user-images.githubusercontent.com/105940407/185451804-8ebf1946-7958-4da0-bc38-610d456b2245.png)
+
 
 En el circuito de la figura 14-49, encuentre la relación de vueltas requerida para suministrar potencia máxima al altavoz de 4 Ω.
-image
+![image](https://user-images.githubusercontent.com/105940407/185451860-034026a7-358d-4e3f-83e6-70181a010e27.png)
 
-image
+![image](https://user-images.githubusercontent.com/105940407/185451880-08465c36-571a-48df-b08d-3b2e1bd10378.png)
+
 
 *20. Encuentre la relación de vueltas apropiada en cada una de las posiciones mostradas en la figura 14-50 para transferir potencia máxima a cada carga cuando la resistencia de fuente es de 10 Ω. Especifique el número de vueltas requerido para el devanado secundario si el devanado primario tiene 1000 vueltas.
 
-image
+![image](https://user-images.githubusercontent.com/105940407/185451914-d6eb9d1a-f9f3-40db-953f-48a28e8ef904.png)
 
-image
+![image](https://user-images.githubusercontent.com/105940407/185451938-fba941ff-0d5a-4616-9a0f-53bf8d6d2dbe.png)
+
 
 ¿Cuál es la eficiencia del transformador en el problema 21? (21. En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias de devanado, ¿cuál es la potencia de salida hacia la carga, omitiendo cualesquiera otras pérdidas?)
-image
+![image](https://user-images.githubusercontent.com/105940407/185451974-de356c12-91d3-4d53-9c69-3f3dc4c61def.png)
+
 
 *24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de ca. El voltaje secundario es de 600 V. (a) ¿Cuál es la corriente máxima en la carga? (b) ¿Cuál es el valor RL más pequeño que puede ser excitado? (c) ¿Cuál es el capacitor más grande que se puede conectar como carga?
 
-image
+![image](https://user-images.githubusercontent.com/105940407/185451999-e8967491-478e-403f-a302-880c5d5de197.png)
+
 
 *26. La potencia nominal de cierto transformador es de 5 kVA, 2400/120 V, a 60 Hz. (a) ¿Cuál es la relación de vueltas si los 120 V son el voltaje secundario? (b) ¿Cuál es la corriente nominal del secundario si los 2400 V son el voltaje primario? (c) ¿Cuál es la corriente nominal del devanado primario si los 2400 V son el voltaje primario?
 
-image 28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma del devanado secundario al devanado primario
+![image](https://user-images.githubusercontent.com/105940407/185452030-17c7b527-ea72-4958-88b3-663b8ad2179e.png)
 
-image image 30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación con 240 V
+28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma del devanado secundario al devanado primario
 
-image
+![image](https://user-images.githubusercontent.com/105940407/185452092-020beeca-a63e-4732-8d5e-8c7f2a739f9e.png)
 
-image
+![image](https://user-images.githubusercontent.com/105940407/185452106-89516f25-0e29-4ca9-80e7-7363c1f9b7a6.png)
 
-image
+30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación con 240 V
+
+![image](https://user-images.githubusercontent.com/105940407/185452140-5a79629f-99a1-4e3b-9483-0310652dba96.png)
+
+![image](https://user-images.githubusercontent.com/105940407/185452155-27f1decb-5527-4223-bd87-4fee43be2d7a.png)
+
+https://user-images.githubusercontent.com/105829461/185290883-0fc5c835-fc20-4f7f-91cf-fdd29407fb39.png
 
 Cuando se aplican 120 V de ca a través del devanado primario de un transformador y se verifica el voltaje en el devanado secundario, se leen 0 V. Una investigación más a fondo muestra que no hay corriente en el primario ni en el secundario. Enumere las posibles fallas. ¿Cuál es el siguiente paso en la investigación del problema?
 
 Mientras usted revisa un transformador, se da cuenta que el voltaje secundario es menor de lo que debería ser aunque no es de cero. ¿Cuál es la falla más probable?
 
+VIDEO
 
+https://youtu.be/4mGVJYI2o9k
 
+CONCLUSIONES 
+
+los inductores al momento que el circuito trabaja con corriente alterna esto hace que se cree un desface con respecto al voltaje al momento de medirlo con el osciloscopio ademas de que el capacitor trabajaria como una bateria la cual se carga y descarga a cada rato.
+
+BIBLIOGFRAFIA
+
+LOYD, THOMAS L.(2007). Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007
 
 
 
